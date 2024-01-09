@@ -1,0 +1,7 @@
+numpy==1.23.4
+torch==2.1.2
+torchvision==0.16.2
+chumpy==0.70
+pyrender==0.1.39
+trimesh==3.6.18
+smplx==0.1.28
